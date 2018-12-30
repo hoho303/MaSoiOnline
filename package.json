@@ -1,0 +1,17 @@
+{
+  "name": "herokunodejs",
+  "version": "1.0.0",
+  "description": "A product by Hoang Thuan",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "type": "git",
+    "url": ""
+  },
+  "author": "Hoang Thuan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
